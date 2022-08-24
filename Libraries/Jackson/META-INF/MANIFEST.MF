@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Jackson-annotations
+Implementation-Version: 2.13.0
+X-Compile-Target-JDK: 1.6
+Specification-Vendor: FasterXML
+Specification-Title: Jackson-annotations
+X-Compile-Source-JDK: 1.6
+Build-Jdk-Spec: 1.8
+Created-By: Maven Javadoc Plugin 3.3.0
+Specification-Version: 2.13
+Implementation-Vendor: FasterXML
+Implementation-Build-Date: 2021-09-30 19:45:26+0000
+
